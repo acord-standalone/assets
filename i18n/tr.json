@@ -1,4 +1,5 @@
 {
+  "APP_NAME": "Acord",
   "IMPORT_EXTENSION_MODAL_TITLE": "Eklenti Ekle",
   "IMPORT_EXTENSION_MODAL_DESCRIPTION": "`{0}` adresindeki uzantıyı kurmak istediğinize emin misiniz?"
 }
