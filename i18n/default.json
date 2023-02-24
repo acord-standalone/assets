@@ -1,0 +1,9 @@
+{
+  "APP_NAME": "Acord",
+  "IMPORT_EXTENSION_MODAL_TITLE": "Import Extension",
+  "IMPORT_EXTENSION_MODAL_DESCRIPTION": "Do you really want to import `{0}` exension?",
+  "HOME": "Home",
+  "INSTALLED_EXTENSIONS": "Installed Extensions",
+  "SETTINGS": "Settings",
+  "EXTENSION_STORE": "Extension Store"
+}
