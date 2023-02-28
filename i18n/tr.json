@@ -5,5 +5,7 @@
   "HOME": "Ev",
   "INSTALLED_EXTENSIONS": "Yüklü Uzantılar",
   "SETTINGS": "Ayarlar",
-  "EXTENSION_STORE": "Uzantı Marketi"
+  "EXTENSION_STORE": "Uzantı Marketi",
+  "INSTALL": "Yükle",
+  "UNINSTALL": "Kaldır"
 }

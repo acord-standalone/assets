@@ -5,5 +5,7 @@
   "HOME": "Home",
   "INSTALLED_EXTENSIONS": "Installed Extensions",
   "SETTINGS": "Settings",
-  "EXTENSION_STORE": "Extension Store"
+  "EXTENSION_STORE": "Extension Store",
+  "INSTALL": "Install",
+  "UNINSTALL": "Uninstall"
 }
