@@ -7,5 +7,8 @@
   "SETTINGS": "Ayarlar",
   "EXTENSION_STORE": "Uzantı Marketi",
   "INSTALL": "Yükle",
-  "UNINSTALL": "Kaldır"
+  "UNINSTALL": "Kaldır",
+  "ALL": "Hepsi",
+  "PLUGINS": "Eklentiler",
+  "THEMES": "Temalar"
 }

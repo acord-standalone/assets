@@ -7,5 +7,8 @@
   "SETTINGS": "Settings",
   "EXTENSION_STORE": "Extension Store",
   "INSTALL": "Install",
-  "UNINSTALL": "Uninstall"
+  "UNINSTALL": "Uninstall",
+  "ALL": "All",
+  "PLUGINS": "Plugins",
+  "THEMES": "Themes"
 }
