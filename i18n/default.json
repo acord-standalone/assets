@@ -10,5 +10,17 @@
   "UNINSTALL": "Uninstall",
   "ALL": "All",
   "PLUGINS": "Plugins",
-  "THEMES": "Themes"
+  "THEMES": "Themes",
+  "SHOW_SETTINGS": "Show Settings",
+  "HIDE_SETTINGS": "Hide Settings",
+  "UPDATE_EXTENSION": "Update Extension",
+  "DISABLE_EXTENSION": "Disable Extension",
+  "ENABLE_EXTENSION": "Enable Extension",
+  "DELETE_EXTENSION": "Delete Extension",
+  "EXTENSION_ACTIVE": "Extension Active",
+  "EXTENSION_INACTIVE": "Extension Inactive",
+  "EXTENSION_IS_IN_DEVELOPMENT_MODE": "Extension is in development mode. Security restrictions are disabled.",
+  "EXTENSIONS": "Extensions",
+  "IMPORT_EXTENSION": "Import Extension",
+  "STORE": "Store"
 }

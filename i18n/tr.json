@@ -10,5 +10,17 @@
   "UNINSTALL": "Kaldır",
   "ALL": "Hepsi",
   "PLUGINS": "Eklentiler",
-  "THEMES": "Temalar"
+  "THEMES": "Temalar",
+  "SHOW_SETTINGS": "Ayarları Göster",
+  "HIDE_SETTINGS": "Ayarları Gizle",
+  "UPDATE_EXTENSION": "Uzantıyı Güncelle",
+  "DISABLE_EXTENSION": "Uzantıyı Devre Dışı Bırak",
+  "ENABLE_EXTENSION": "Uzantıyı Etkinleştir",
+  "DELETE_EXTENSION": "Uzantıyı Sil",
+  "EXTENSION_ACTIVE": "Uzantı Etkin",
+  "EXTENSION_INACTIVE": "Uzantı Etkin Değil",
+  "EXTENSION_IS_IN_DEVELOPMENT_MODE": "Uzantı geliştirme modunda. Bu eklenti için güvenlik önlemleri kapatılmıştır.",
+  "EXTENSIONS": "Uzantılar",
+  "IMPORT_EXTENSION": "Uzantı Ekle",
+  "STORE": "Market"
 }
