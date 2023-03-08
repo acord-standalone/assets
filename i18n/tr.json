@@ -25,5 +25,6 @@
   "STORE": "Market",
   "INSTALL_EXTENSION": "Uzantıyı Yükle",
   "INSTALLING_EXTENSION": "\"{0}\" adresindeki uzantı indiliyor.",
-  "EXTENSION_INSTALLED": "\"{0}\" adresindeki uzantı indirildi."
+  "EXTENSION_INSTALLED": "\"{0}\" adresindeki uzantı indirildi.",
+  "AUTHORS": "Yapımcılar:"
 }

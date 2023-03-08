@@ -25,5 +25,6 @@
   "STORE": "Store",
   "INSTALL_EXTENSION": "Install Extension",
   "INSTALLING_EXTENSION": "Installing Extension... (\"{0}\")",
-  "EXTENSION_INSTALLED": "Extension Installed. (\"{0}\")"
+  "EXTENSION_INSTALLED": "Extension Installed. (\"{0}\")",
+  "AUTHORS": "Authors"
 }
