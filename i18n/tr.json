@@ -22,5 +22,8 @@
   "EXTENSION_IS_IN_DEVELOPMENT_MODE": "Uzantı geliştirme modunda. Bu eklenti için güvenlik önlemleri kapatılmıştır.",
   "EXTENSIONS": "Uzantılar",
   "IMPORT_EXTENSION": "Uzantı Ekle",
-  "STORE": "Market"
+  "STORE": "Market",
+  "INSTALL_EXTENSION": "Uzantıyı Yükle",
+  "INSTALLING_EXTENSION": "\"{0}\" adresindeki uzantı indiliyor.",
+  "EXTENSION_INSTALLED": "\"{0}\" adresindeki uzantı indirildi."
 }

@@ -22,5 +22,8 @@
   "EXTENSION_IS_IN_DEVELOPMENT_MODE": "Extension is in development mode. Security restrictions are disabled.",
   "EXTENSIONS": "Extensions",
   "IMPORT_EXTENSION": "Import Extension",
-  "STORE": "Store"
+  "STORE": "Store",
+  "INSTALL_EXTENSION": "Install Extension",
+  "INSTALLING_EXTENSION": "Installing Extension... (\"{0}\")",
+  "EXTENSION_INSTALLED": "Extension Installed. (\"{0}\")"
 }
