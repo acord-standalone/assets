@@ -27,5 +27,8 @@
   "INSTALLING_EXTENSION": "Installing Extension... (\"{0}\")",
   "EXTENSION_INSTALLED": "Extension Installed. (\"{0}\")",
   "AUTHORS": "Authors",
-  "AUTHENTICATION_CALLBACK_SUCCESS": "Authentication for account {0} was successful."
+  "AUTHENTICATION_CALLBACK_SUCCESS": "Authentication for account {0} was successful.",
+  "ACCOUNT_IS_CONNECTED": "Your account is linked to Acord.",
+  "ACCOUNT_IS_NOT_CONNECTED": "Your account is not linked to Acord.",
+  "CLICK_HERE_TO_CONNECT": "Please click here to link your account with Acord."
 }
