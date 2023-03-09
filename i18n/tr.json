@@ -26,5 +26,6 @@
   "INSTALL_EXTENSION": "Uzantıyı Yükle",
   "INSTALLING_EXTENSION": "\"{0}\" adresindeki uzantı indiliyor.",
   "EXTENSION_INSTALLED": "\"{0}\" adresindeki uzantı indirildi.",
-  "AUTHORS": "Yapımcılar"
+  "AUTHORS": "Yapımcılar",
+  "AUTHENTICATION_CALLBACK_SUCCESS": "{0} hesabı için kimlik doğrulama başarılı."
 }
