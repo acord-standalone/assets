@@ -30,5 +30,7 @@
   "AUTHENTICATION_CALLBACK_SUCCESS": "Authentication for account {0} was successful.",
   "ACCOUNT_IS_CONNECTED": "Your account is linked to Acord.",
   "ACCOUNT_IS_NOT_CONNECTED": "Your account is not linked to Acord.",
-  "CLICK_HERE_TO_CONNECT": "Please click here to link your account with Acord."
+  "CLICK_HERE_TO_CONNECT": "Please click here to link your account with Acord.",
+  "NOT_CONNECTED": "Not connected to Acord",
+  "CONNECTED": "Connected to Acord"
 }

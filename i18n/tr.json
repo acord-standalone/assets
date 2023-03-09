@@ -30,5 +30,7 @@
   "AUTHENTICATION_CALLBACK_SUCCESS": "{0} hesabı için kimlik doğrulama başarılı.",
   "ACCOUNT_IS_CONNECTED": "Hesabınız Acord ile bağlı durumda.",
   "ACCOUNT_IS_NOT_CONNECTED": "Hesabınız Acord ile bağlı değil.",
-  "CLICK_HERE_TO_CONNECT": "Acord ile hesabınızı bağlamak için lütfen buraya tıklayın."
+  "CLICK_HERE_TO_CONNECT": "Acord ile hesabınızı bağlamak için lütfen buraya tıklayın.",
+  "NOT_CONNECTED": "Acord'a bağlı değil",
+  "CONNECTED": "Acord'a bağlı"
 }
