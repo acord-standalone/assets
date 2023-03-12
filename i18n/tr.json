@@ -32,5 +32,7 @@
   "ACCOUNT_IS_NOT_CONNECTED": "Hesabınız Acord ile bağlı değil.",
   "CLICK_HERE_TO_CONNECT": "Acord ile hesabınızı bağlamak için lütfen buraya tıklayın.",
   "NOT_CONNECTED": "Acord'a bağlı değil",
-  "CONNECTED": "Acord'a bağlı"
+  "CONNECTED": "Acord'a bağlı",
+  "UPDATE_REQUIRED": "Güncelleme Gerekli",
+  "UPDATE_REQUIRED_DESCRIPTION": "Acord'u güncellemek için lütfen Acord Standalone indiricisinden tekrardan indirin. (Şuanki Version: {0}, Yeni Version: {1})"
 }

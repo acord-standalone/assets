@@ -32,5 +32,7 @@
   "ACCOUNT_IS_NOT_CONNECTED": "Your account is not linked to Acord.",
   "CLICK_HERE_TO_CONNECT": "Please click here to link your account with Acord.",
   "NOT_CONNECTED": "Not connected to Acord",
-  "CONNECTED": "Connected to Acord"
+  "CONNECTED": "Connected to Acord",
+  "UPDATE_REQUIRED": "Update Required",
+  "UPDATE_REQUIRED_DESCRIPTION": "To update Acord, please install it again from the Acord Standalone installer. (Current Version: {0}, New Version: {1})"
 }
