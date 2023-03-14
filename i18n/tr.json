@@ -34,5 +34,6 @@
   "NOT_CONNECTED": "Acord'a bağlı değil",
   "CONNECTED": "Acord'a bağlı",
   "UPDATE_REQUIRED": "Güncelleme Gerekli",
-  "UPDATE_REQUIRED_DESCRIPTION": "Acord'u güncellemek için lütfen Acord Standalone indiricisinden tekrardan indirin. (Şuanki Version: {0}, Yeni Version: {1})"
+  "UPDATE_REQUIRED_DESCRIPTION": "Acord'u güncellemek için lütfen Acord Standalone indiricisinden tekrardan indirin. (Şuanki Version: {0}, Yeni Version: {1})",
+  "ACORD_MEMBER": "Acord Üyesi"
 }
