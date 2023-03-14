@@ -35,5 +35,7 @@
   "CONNECTED": "Connected to Acord",
   "UPDATE_REQUIRED": "Update Required",
   "UPDATE_REQUIRED_DESCRIPTION": "To update Acord, please install it again from the Acord Standalone installer. (Current Version: {0}, New Version: {1})",
-  "ACORD_MEMBER": "Acord Member"
+  "ACORD_MEMBER": "Acord Member",
+  "EXTENSION_REQUIRES_AUTHENTICATION": "This extension requires authentication to work properly.",
+  "ACORD_DEVELOPER": "Acord Developer"
 }
