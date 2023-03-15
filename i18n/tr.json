@@ -37,5 +37,6 @@
   "UPDATE_REQUIRED_DESCRIPTION": "Acord'u güncellemek için lütfen Acord Standalone indiricisinden tekrardan indirin. (Şuanki Version: {0}, Yeni Version: {1})",
   "ACORD_MEMBER": "Acord Üyesi",
   "EXTENSION_REQUIRES_AUTHENTICATION": "Bu uzantıyı kullanmak için Acord ile Discord hesabınızın bağlı olması gerekiyor.",
-  "ACORD_DEVELOPER": "Acord Geliştiricisi"
+  "ACORD_DEVELOPER": "Acord Geliştiricisi",
+  "ACORD_ADVISER": "Acord Temsilcisi"
 }
