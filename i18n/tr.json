@@ -27,7 +27,7 @@
   "INSTALLING_EXTENSION": "\"{0}\" adresindeki uzantı indiliyor.",
   "EXTENSION_INSTALLED": "\"{0}\" adresindeki uzantı indirildi.",
   "AUTHORS": "Yapımcılar",
-  "AUTHENTICATION_CALLBACK_SUCCESS": "{0} hesabı için kimlik doğrulama başarılı.",
+  "AUTHENTICATION_SUCCESS": "{0} hesabı için kimlik doğrulama başarılı.",
   "ACCOUNT_IS_CONNECTED": "Hesabınız Acord ile bağlı durumda.",
   "ACCOUNT_IS_NOT_CONNECTED": "Hesabınız Acord ile bağlı değil.",
   "CLICK_HERE_TO_CONNECT": "Acord ile hesabınızı bağlamak için lütfen buraya tıklayın.",
@@ -39,5 +39,10 @@
   "EXTENSION_REQUIRES_AUTHENTICATION": "Bu uzantıyı kullanmak için Acord ile Discord hesabınızın bağlı olması gerekiyor.",
   "ACORD_DEVELOPER": "Acord Geliştiricisi",
   "ACORD_ADVISER": "Acord Temsilcisi",
-  "ACORD_BOOSTER": "Acord Booster"
+  "ACORD_BOOSTER": "Acord Booster",
+  "AUTHENTICATION_INVALID_TOKEN": "Geçersiz Acord tokeni.",
+  "AUTHENTICATION_USER_MISMATCH": "Bağladığın hesap ile şuanki hesap uyuşmuyor.",
+  "AUTHENTICATION_CONNECT_ACCOUNT": "Hesabını Bağla",
+  "AUTHENTICATION_OPEN_CONNECT_LINK": "Bağlama Adresini Tarayıcıda Aç",
+  "ENTER_ACORD_TOKEN": "Acord Anahtarını Gir"
 }

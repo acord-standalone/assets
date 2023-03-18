@@ -27,7 +27,7 @@
   "INSTALLING_EXTENSION": "Installing Extension... (\"{0}\")",
   "EXTENSION_INSTALLED": "Extension Installed. (\"{0}\")",
   "AUTHORS": "Authors",
-  "AUTHENTICATION_CALLBACK_SUCCESS": "Authentication for account {0} was successful.",
+  "AUTHENTICATION_SUCCESS": "Authentication for account {0} was successful.",
   "ACCOUNT_IS_CONNECTED": "Your account is linked to Acord.",
   "ACCOUNT_IS_NOT_CONNECTED": "Your account is not linked to Acord.",
   "CLICK_HERE_TO_CONNECT": "Please click here to link your account with Acord.",
@@ -39,5 +39,10 @@
   "EXTENSION_REQUIRES_AUTHENTICATION": "This extension requires authentication to work properly.",
   "ACORD_DEVELOPER": "Acord Developer",
   "ACORD_ADVISER": "Acord Advisor",
-  "ACORD_BOOSTER": "Acord Booster"
+  "ACORD_BOOSTER": "Acord Booster",
+  "AUTHENTICATION_INVALID_TOKEN": "Invalid Acord token.",
+  "AUTHENTICATION_USER_MISMATCH": "The account you linked does not match the current account.",
+  "AUTHENTICATION_CONNECT_ACCOUNT": "Connect Account",
+  "AUTHENTICATION_OPEN_CONNECT_LINK": "Open Connect Link on Browser",
+  "ENTER_ACORD_TOKEN": "Enter Acord Token"
 }
