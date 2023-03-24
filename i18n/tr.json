@@ -44,5 +44,6 @@
   "AUTHENTICATION_USER_MISMATCH": "Bağladığın hesap ile şuanki hesap uyuşmuyor.",
   "AUTHENTICATION_CONNECT_ACCOUNT": "Hesabını Bağla",
   "AUTHENTICATION_OPEN_CONNECT_LINK": "Bağlama Adresini Tarayıcıda Aç",
-  "ENTER_ACORD_TOKEN": "Acord Anahtarını Gir"
+  "ENTER_ACORD_TOKEN": "Acord Anahtarını Gir",
+  "PLUGIN_DEV": "Plugin Geliştiricisi"
 }

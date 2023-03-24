@@ -44,5 +44,6 @@
   "AUTHENTICATION_USER_MISMATCH": "The account you linked does not match the current account.",
   "AUTHENTICATION_CONNECT_ACCOUNT": "Connect Account",
   "AUTHENTICATION_OPEN_CONNECT_LINK": "Open Connect Link on Browser",
-  "ENTER_ACORD_TOKEN": "Enter Acord Token"
+  "ENTER_ACORD_TOKEN": "Enter Acord Token",
+  "PLUGIN_DEV": "Plugin Developer"
 }
