@@ -45,5 +45,6 @@
   "AUTHENTICATION_CONNECT_ACCOUNT": "Connect Account",
   "AUTHENTICATION_OPEN_CONNECT_LINK": "Open Connect Link on Browser",
   "ENTER_ACORD_TOKEN": "Enter Acord Token",
-  "PLUGIN_DEV": "Plugin Developer"
+  "PLUGIN_DEV": "Plugin Developer",
+  "INVENTORY": "Inventory"
 }
