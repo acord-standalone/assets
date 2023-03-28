@@ -51,5 +51,6 @@
   "INVENTORY_COLORED_NAME_FEATURE": "Colored Name Feature",
   "INVENTORY_HAT_FEATURE": "{0} Hat",
   "INVENTORY_BADGE_FEATURE": "{0} Badge",
-  "COLORED_NAME": "Colored Name"
+  "COLORED_NAME": "Colored Name",
+  "ENABLE_QUESTION": "Enable?"
 }

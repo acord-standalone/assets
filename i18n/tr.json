@@ -51,5 +51,6 @@
   "INVENTORY_COLORED_NAME_FEATURE": "Renkli İsim Özelliği",
   "INVENTORY_HAT_FEATURE": "{0} Şapkası",
   "INVENTORY_BADGE_FEATURE": "{0} Arması",
-  "COLORED_NAME": "Renkli İsim"
+  "COLORED_NAME": "Renkli İsim",
+  "ENABLE_QUESTION": "Aktifleştir?"
 }
