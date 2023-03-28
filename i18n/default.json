@@ -46,5 +46,10 @@
   "AUTHENTICATION_OPEN_CONNECT_LINK": "Open Connect Link on Browser",
   "ENTER_ACORD_TOKEN": "Enter Acord Token",
   "PLUGIN_DEV": "Plugin Developer",
-  "INVENTORY": "Inventory"
+  "INVENTORY": "Inventory",
+  "INVENTORY_PROFILE_MUSIC_FEATURE": "Profile Music Feature",
+  "INVENTORY_COLORED_NAME_FEATURE": "Colored Name Feature",
+  "INVENTORY_HAT_FEATURE": "{0} Hat",
+  "INVENTORY_BADGE_FEATURE": "{0} Badge",
+  "COLORED_NAME": "Colored Name"
 }

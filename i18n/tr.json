@@ -45,6 +45,11 @@
   "AUTHENTICATION_CONNECT_ACCOUNT": "Hesabını Bağla",
   "AUTHENTICATION_OPEN_CONNECT_LINK": "Bağlama Adresini Tarayıcıda Aç",
   "ENTER_ACORD_TOKEN": "Acord Anahtarını Gir",
-  "PLUGIN_DEV": "Plugin Geliştiricisi",
-  "INVENTORY": "Envanter"
+  "PLUGIN_DEV": "Uzantı Geliştiricisi",
+  "INVENTORY": "Envanter",
+  "INVENTORY_PROFILE_MUSIC_FEATURE": "Profil Müziği Özelliği",
+  "INVENTORY_COLORED_NAME_FEATURE": "Renkli İsim Özelliği",
+  "INVENTORY_HAT_FEATURE": "{0} Şapkası",
+  "INVENTORY_BADGE_FEATURE": "{0} Arması",
+  "COLORED_NAME": "Renkli İsim"
 }
