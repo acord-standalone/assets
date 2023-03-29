@@ -52,5 +52,6 @@
   "INVENTORY_HAT_FEATURE": "{0} Şapkası",
   "INVENTORY_BADGE_FEATURE": "{0} Arması",
   "COLORED_NAME": "Renkli İsim",
-  "ENABLED_QUESTION": "Aktifleştir?"
+  "ENABLED_QUESTION": "Aktifleştir?",
+  "ENDS_IN": "{0} sona erecak."
 }
