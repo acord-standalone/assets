@@ -53,5 +53,6 @@
   "INVENTORY_BADGE_FEATURE": "{0} Badge",
   "COLORED_NAME": "Colored Name",
   "ENABLED_QUESTION": "Enable?",
-  "ENDS_IN": "Ends in {0}"
+  "ENDS_IN": "Ends in {0}",
+  "ACORD_PARTNER": "Acord Partner"
 }
