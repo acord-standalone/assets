@@ -54,5 +54,6 @@
   "COLORED_NAME": "Colored Name",
   "ENABLED_QUESTION": "Enable?",
   "ENDS_IN": "Ends in {0}",
-  "ACORD_PARTNER": "Acord Partner"
+  "ACORD_PARTNER": "Acord Partner",
+  "BLOCKED_FROM_ACORD": "You have been blocked from using Acord"
 }
