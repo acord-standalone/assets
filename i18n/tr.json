@@ -55,5 +55,9 @@
   "ENABLED_QUESTION": "Aktifleştir?",
   "ENDS_IN": "{0} içinde bitecek.",
   "ACORD_PARTNER": "Acord Ortağı",
-  "BLOCKED_FROM_ACORD": "Acord'dan Engellendiniz"
+  "BLOCKED_FROM_ACORD": "Acord'dan Engellendiniz",
+  "RELAUNCH": "Yeniden Başlat",
+  "RELAUNCH_DESCRIPTION": "Discord'u tamamen kapar ve geri açar.",
+  "RESET_ACORD_DATA": "Acord Verilerini Sıfırla",
+  "RESET_ACORD_DATA_DESCRIPTION": "Acord'un tüm verilerini sıfırlar. (Uzantılar, Temalar, Ayarlar, vs.)"
 }

@@ -55,5 +55,9 @@
   "ENABLED_QUESTION": "Enable?",
   "ENDS_IN": "Ends in {0}",
   "ACORD_PARTNER": "Acord Partner",
-  "BLOCKED_FROM_ACORD": "You have been blocked from using Acord"
+  "BLOCKED_FROM_ACORD": "You have been blocked from using Acord",
+  "RELAUNCH": "Relaunch",
+  "RELAUNCH_DESCRIPTION": "Closes the Discord client and reopens it.",
+  "RESET_ACORD_DATA": "Reset Acord Data",
+  "RESET_ACORD_DATA_DESCRIPTION": "Resets all Acord data, including settings and extensions."
 }
