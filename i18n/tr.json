@@ -59,5 +59,7 @@
   "RELAUNCH": "Yeniden Başlat",
   "RELAUNCH_DESCRIPTION": "Discord'u tamamen kapar ve geri açar.",
   "RESET_ACORD_DATA": "Acord Verilerini Sıfırla",
-  "RESET_ACORD_DATA_DESCRIPTION": "Acord'un tüm verilerini sıfırlar. (Uzantılar, Temalar, Ayarlar, vs.)"
+  "RESET_ACORD_DATA_DESCRIPTION": "Acord'un tüm verilerini sıfırlar. (Uzantılar, Temalar, Ayarlar, vs.)",
+  "EXTENSION_UPDATED": "Eklenti Güncellendi",
+  "NO_UPDATE_AVAILABLE": "Güncelleme Yok"
 }

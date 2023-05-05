@@ -59,5 +59,7 @@
   "RELAUNCH": "Relaunch",
   "RELAUNCH_DESCRIPTION": "Closes the Discord client and reopens it.",
   "RESET_ACORD_DATA": "Reset Acord Data",
-  "RESET_ACORD_DATA_DESCRIPTION": "Resets all Acord data, including settings and extensions."
+  "RESET_ACORD_DATA_DESCRIPTION": "Resets all Acord data, including settings and extensions.",
+  "EXTENSION_UPDATED": "Extension Updated.",
+  "NO_UPDATE_AVAILABLE": "No update available."
 }
