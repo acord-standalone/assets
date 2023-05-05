@@ -34,7 +34,7 @@
   "NOT_CONNECTED": "Not connected to Acord",
   "CONNECTED": "Connected to Acord",
   "UPDATE_REQUIRED": "Update Required",
-  "UPDATE_REQUIRED_DESCRIPTION": "To update Acord, please install it again from the Acord Standalone installer. (Current Version: {0}, New Version: {1})",
+  "UPDATE_REQUIRED_DESCRIPTION": "Update Acord from settings page. (Current Version: {0}, New Version: {1})",
   "ACORD_MEMBER": "Acord Member",
   "EXTENSION_REQUIRES_AUTHENTICATION": "This extension requires authentication to work properly.",
   "ACORD_DEVELOPER": "Acord Developer",
@@ -61,5 +61,7 @@
   "RESET_ACORD_DATA": "Reset Acord Data",
   "RESET_ACORD_DATA_DESCRIPTION": "Resets all Acord data, including settings and extensions.",
   "EXTENSION_UPDATED": "Extension Updated.",
-  "NO_UPDATE_AVAILABLE": "No update available."
+  "NO_UPDATE_AVAILABLE": "No update available.",
+  "UPDATE_DESCRIPTION": "Closes Acord, updates to the latest version, and reopens it.",
+  "UPDATE_NOT_SUPPORTED": "Update not supported. Please install Acord again manually."
 }

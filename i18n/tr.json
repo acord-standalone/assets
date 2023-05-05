@@ -34,7 +34,7 @@
   "NOT_CONNECTED": "Acord'a bağlı değil",
   "CONNECTED": "Acord'a bağlı",
   "UPDATE_REQUIRED": "Güncelleme Gerekli",
-  "UPDATE_REQUIRED_DESCRIPTION": "Acord'u güncellemek için lütfen Acord Standalone indiricisinden tekrardan indirin. (Şuanki Version: {0}, Yeni Version: {1})",
+  "UPDATE_REQUIRED_DESCRIPTION": "Acord'u ayarlar sekmesinden güncelleyebilirsiniz. (Şuanki Version: {0}, Yeni Version: {1})",
   "ACORD_MEMBER": "Acord Üyesi",
   "EXTENSION_REQUIRES_AUTHENTICATION": "Bu uzantıyı kullanmak için Acord ile Discord hesabınızın bağlı olması gerekiyor.",
   "ACORD_DEVELOPER": "Acord Geliştiricisi",
@@ -61,5 +61,7 @@
   "RESET_ACORD_DATA": "Acord Verilerini Sıfırla",
   "RESET_ACORD_DATA_DESCRIPTION": "Acord'un tüm verilerini sıfırlar. (Uzantılar, Temalar, Ayarlar, vs.)",
   "EXTENSION_UPDATED": "Eklenti Güncellendi",
-  "NO_UPDATE_AVAILABLE": "Güncelleme Yok"
+  "NO_UPDATE_AVAILABLE": "Güncelleme Yok",
+  "UPDATE_DESCRIPTION": "Acord'u kapatıp, en son versiyona günceller ve geri açar.",
+  "UPDATE_NOT_SUPPORTED": "Acord'un bu versiyonu güncelleme desteği sunmuyor. Lütfen manuel olarak güncelleyin."
 }
