@@ -63,5 +63,7 @@
   "EXTENSION_UPDATED": "Eklenti Güncellendi",
   "NO_UPDATE_AVAILABLE": "Güncelleme Yok",
   "UPDATE_DESCRIPTION": "Acord'u kapatıp, en son versiyona günceller ve geri açar.",
-  "UPDATE_NOT_SUPPORTED": "Acord'un bu versiyonu güncelleme desteği sunmuyor. Lütfen manuel olarak güncelleyin."
+  "UPDATE_NOT_SUPPORTED": "Acord'un bu versiyonu güncelleme desteği sunmuyor. Lütfen manuel olarak güncelleyin.",
+  "SPOTIFY_TRACK_LINK": "Spotify Parça Linki",
+  "TRACK_START_POSITION": "Başlangıç Pozisyonu"
 }
