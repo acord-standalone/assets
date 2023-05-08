@@ -65,5 +65,7 @@
   "UPDATE_DESCRIPTION": "Closes Acord, updates to the latest version, and reopens it.",
   "UPDATE_NOT_SUPPORTED": "Update not supported. Please install Acord again manually.",
   "SPOTIFY_TRACK_LINK": "Spotify Track Link",
-  "TRACK_START_POSITION": "Start Position"
+  "TRACK_START_POSITION": "Start Position",
+  "COSMETICS": "Cosmetics",
+  "ACORD_COSMETICS_SHOP": "Acord Cosmetics Shop"
 }

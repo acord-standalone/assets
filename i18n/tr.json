@@ -65,5 +65,7 @@
   "UPDATE_DESCRIPTION": "Acord'u kapatıp, en son versiyona günceller ve geri açar.",
   "UPDATE_NOT_SUPPORTED": "Acord'un bu versiyonu güncelleme desteği sunmuyor. Lütfen manuel olarak güncelleyin.",
   "SPOTIFY_TRACK_LINK": "Spotify Parça Linki",
-  "TRACK_START_POSITION": "Başlangıç Pozisyonu"
+  "TRACK_START_POSITION": "Başlangıç Pozisyonu",
+  "COSMETICS": "Kozmetikler",
+  "ACORD_COSMETICS_SHOP": "Acord Kozmetik Mağazası"
 }
