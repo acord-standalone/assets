@@ -67,5 +67,8 @@
   "SPOTIFY_TRACK_LINK": "Spotify Track Link",
   "TRACK_START_POSITION": "Start Position",
   "COSMETICS": "Cosmetics",
-  "ACORD_COSMETICS_SHOP": "Acord Cosmetics Shop"
+  "ACORD_COSMETICS_SHOP": "Acord Cosmetics Shop",
+  "COSMETICS_TOTAL_TRY": "Total: {0}₺",
+  "COSMETICS_KDV_INCLUDED": "KDV Included",
+  "COSMETICS_CHECKOUT": "Checkout"
 }
