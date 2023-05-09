@@ -71,5 +71,6 @@
   "COSMETICS_TOTAL_TRY": "Total: {0}₺",
   "COSMETICS_KDV_INCLUDED": "KDV Included",
   "COSMETICS_CHECKOUT": "Checkout",
-  "COSMETICS_TOTAL": "Total"
+  "COSMETICS_TOTAL": "Total",
+  "COSMETICS_CART": "Cart"
 }
