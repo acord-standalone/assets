@@ -72,5 +72,13 @@
   "COSMETICS_KDV_INCLUDED": "KDV Included",
   "COSMETICS_CHECKOUT": "Checkout",
   "COSMETICS_TOTAL": "Total",
-  "COSMETICS_CART": "Cart"
+  "COSMETICS_CART": "Cart",
+  "BUYER_NAME": "Name",
+  "BUYER_SURNAME": "Surname",
+  "BUYER_MAIL": "e-Mail",
+  "BUYER_GSM_NO": "GSM No",
+  "BUYER_ADDRESS": "Address",
+  "BUYER_CITY": "City",
+  "BUYER_COUNTRY": "Country",
+  "BUYER_DISTRICT": "District"
 }

@@ -72,5 +72,13 @@
   "COSMETICS_KDV_INCLUDED": "KDV Dahil",
   "COSMETICS_CHECKOUT": "Ödeme Yap",
   "COSMETICS_TOTAL": "Toplam",
-  "COSMETICS_CART": "Sepet"
+  "COSMETICS_CART": "Sepet",
+  "BUYER_NAME": "İsim",
+  "BUYER_SURNAME": "Soyisim",
+  "BUYER_MAIL": "E-Posta",
+  "BUYER_GSM_NO": "GSM No",
+  "BUYER_ADDRESS": "Adres",
+  "BUYER_CITY": "Şehir",
+  "BUYER_COUNTRY": "Ülke",
+  "BUYER_DISTRICT": "İlçe"
 }
