@@ -70,5 +70,6 @@
   "ACORD_COSMETICS_SHOP": "Acord Kozmetik Mağazası",
   "COSMETICS_TOTAL_TRY": "Toplam: {0}₺",
   "COSMETICS_KDV_INCLUDED": "KDV Dahil",
-  "COSMETICS_CHECKOUT": "Ödeme Yap"
+  "COSMETICS_CHECKOUT": "Ödeme Yap",
+  "COSMETICS_TOTAL": "Total"
 }
