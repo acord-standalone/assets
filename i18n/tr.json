@@ -67,5 +67,8 @@
   "SPOTIFY_TRACK_LINK": "Spotify Parça Linki",
   "TRACK_START_POSITION": "Başlangıç Pozisyonu",
   "COSMETICS": "Kozmetikler",
-  "ACORD_COSMETICS_SHOP": "Acord Kozmetik Mağazası"
+  "ACORD_COSMETICS_SHOP": "Acord Kozmetik Mağazası",
+  "COSMETICS_TOTAL_TRY": "Toplam: {0}₺",
+  "COSMETICS_KDV_INCLUDED": "KDV Dahil",
+  "COSMETICS_CHECKOUT": "Ödeme Yap"
 }
