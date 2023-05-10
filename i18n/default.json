@@ -80,5 +80,6 @@
   "BUYER_ADDRESS": "Address",
   "BUYER_CITY": "City",
   "BUYER_COUNTRY": "Country",
-  "BUYER_DISTRICT": "District"
+  "BUYER_DISTRICT": "District",
+  "COSMETICS_MINIMUM_USD": "Minimum 1$ payment can be made for payments outside Turkey."
 }
