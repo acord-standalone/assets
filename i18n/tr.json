@@ -87,5 +87,8 @@
   "COSMETICS_GOTO_PAYMENT": "Ödeme Yap",
   "COSMETICS_PAYMENT_DONE": "Ödeme Yapıldı",
   "COSMETICS_OLD_PAYMENTS": "Önceki Ödemeler",
-  "UNKNOWN": "Bilinmiyor"
+  "UNKNOWN": "Bilinmiyor",
+  "COSMETICS_OTHER": "Diğer Kozmetikler",
+  "COSMETICS_PACKS": "Paketler",
+  "COSMETICS_ITEMS": "Eşyalar"
 }

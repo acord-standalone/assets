@@ -87,5 +87,8 @@
   "COSMETICS_GOTO_PAYMENT": "Go to Payment",
   "COSMETICS_PAYMENT_DONE": "Payment Done",
   "COSMETICS_OLD_PAYMENTS": "Old Payments",
-  "UNKNOWN": "Unknown"
+  "UNKNOWN": "Unknown",
+  "COSMETICS_OTHER": "Other Cosmetics",
+  "COSMETICS_PACKS": "Packs",
+  "COSMETICS_ITEMS": "Items"
 }
