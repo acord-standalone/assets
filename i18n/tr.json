@@ -81,7 +81,7 @@
   "BUYER_CITY": "Şehir",
   "BUYER_COUNTRY": "Ülke",
   "BUYER_DISTRICT": "İlçe",
-  "COSMETICS_MINIMUM_USD": "Türkiye dışı ödemelerde minimum 1$ ödeme yapılabilir.",
+  "COSMETICS_MINIMUM_USD": "Türkiye dışı ödemelerde minimum 0.5$ ödeme yapılabilir.",
   "COSMETICS_NUM_PACKS": "{0} Paket",
   "COSMETICS_NUM_ITEMS": "{0} Eşya",
   "COSMETICS_GOTO_PAYMENT": "Ödeme Yap",
