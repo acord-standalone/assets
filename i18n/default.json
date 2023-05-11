@@ -90,5 +90,6 @@
   "UNKNOWN": "Unknown",
   "COSMETICS_OTHER": "Other Cosmetics",
   "COSMETICS_PACKS": "Packs",
-  "COSMETICS_ITEMS": "Items"
+  "COSMETICS_ITEMS": "Items",
+  "EXTRA_COMMISSION": "You will be charged extra 0.5$ commission for payments outside Turkey."
 }
