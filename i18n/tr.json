@@ -86,5 +86,6 @@
   "COSMETICS_NUM_ITEMS": "{0} Eşya",
   "COSMETICS_GOTO_PAYMENT": "Ödeme Yap",
   "COSMETICS_PAYMENT_DONE": "Ödeme Yapıldı",
-  "COSMETICS_OLD_PAYMENTS": "Önceki Ödemeler"
+  "COSMETICS_OLD_PAYMENTS": "Önceki Ödemeler",
+  "UNKNOWN": "Bilinmiyor"
 }
