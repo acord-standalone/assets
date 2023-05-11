@@ -81,7 +81,7 @@
   "BUYER_CITY": "City",
   "BUYER_COUNTRY": "Country",
   "BUYER_DISTRICT": "District",
-  "COSMETICS_MINIMUM_USD": "Minimum 1$ payment can be made for payments outside Turkey.",
+  "COSMETICS_MINIMUM_USD": "Minimum 0.5$ payment can be made for payments outside Turkey.",
   "COSMETICS_NUM_PACKS": "{0} Packs",
   "COSMETICS_NUM_ITEMS": "{0} Items",
   "COSMETICS_GOTO_PAYMENT": "Go to Payment",
