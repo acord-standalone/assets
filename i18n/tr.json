@@ -85,5 +85,6 @@
   "COSMETICS_NUM_PACKS": "{0} Paket",
   "COSMETICS_NUM_ITEMS": "{0} Eşya",
   "COSMETICS_GOTO_PAYMENT": "Ödeme Yap",
-  "COSMETICS_PAYMENT_DONE": "Ödeme Yapıldı"
+  "COSMETICS_PAYMENT_DONE": "Ödeme Yapıldı",
+  "COSMETICS_OLD_PAYMENTS": "Önceki Ödemeler"
 }

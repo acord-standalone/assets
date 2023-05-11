@@ -85,5 +85,6 @@
   "COSMETICS_NUM_PACKS": "{0} Packs",
   "COSMETICS_NUM_ITEMS": "{0} Items",
   "COSMETICS_GOTO_PAYMENT": "Go to Payment",
-  "COSMETICS_PAYMENT_DONE": "Payment Done"
+  "COSMETICS_PAYMENT_DONE": "Payment Done",
+  "COSMETICS_OLD_PAYMENTS": "Old Payments"
 }
