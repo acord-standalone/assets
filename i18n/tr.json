@@ -91,5 +91,6 @@
   "COSMETICS_OTHER": "Diğer Kozmetikler",
   "COSMETICS_PACKS": "Paketler",
   "COSMETICS_ITEMS": "Eşyalar",
-  "EXTRA_COMMISSION": "Türkiye dışı ödemelerde 0.5$ ek komisyon alınacaktır."
+  "EXTRA_COMMISSION": "Türkiye dışı ödemelerde 0.5$ ek komisyon alınacaktır.",
+  "PURCHASE_MADE": "Satın Alındı"
 }
