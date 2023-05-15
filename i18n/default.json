@@ -66,6 +66,7 @@
   "UPDATE_NOT_SUPPORTED": "Update not supported. Please install Acord again manually.",
   "SPOTIFY_TRACK_LINK": "Spotify Track Link",
   "TRACK_START_POSITION": "Start Position",
+  "TRACK_START_POSITION_SECONDS": "Start Position (Seconds)",
   "COSMETICS": "Cosmetics",
   "ACORD_COSMETICS_SHOP": "Acord Cosmetics Shop",
   "COSMETICS_TOTAL_TRY": "Total: {0}₺",
