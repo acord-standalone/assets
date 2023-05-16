@@ -94,5 +94,12 @@
   "COSMETICS_ITEMS": "Eşyalar",
   "EXTRA_COMMISSION": "Türkiye dışı ödemelerde 0.5$ ek komisyon alınacaktır.",
   "PURCHASE_MADE": "Satın Alındı",
-  "OTHER_DIAMOND": "Premium Destekçi"
+  "OTHER_DIAMOND": "Premium Destekçi",
+  "BADGE_BUG_HUNTER": "Bug Avcısı",
+  "BADGE_BUG_HUNTER_LEVEL_2": "Bug Avcısı Level 2",
+  "BADGE_HYPESQUAD_EVENTS": "HypeSquad Etkinlikleri",
+  "BADGE_CERTIFIED_MODERATOR": "Sertifikalı Moderatör",
+  "BADGE_EARLY_SUPPORTER": "Erken Destekçi",
+  "BADGE_DISCORD_STAFF": "Discord Çalışanı",
+  "BADGE_EARLY_VERIFIED_BOT_DEVELOPER": "Erken Doğrulanmış Bot Geliştiricisi"
 }

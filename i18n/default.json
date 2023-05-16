@@ -94,5 +94,12 @@
   "COSMETICS_ITEMS": "Items",
   "EXTRA_COMMISSION": "You will be charged extra 0.5$ commission for payments outside Turkey.",
   "PURCHASE_MADE": "Purchase Made",
-  "OTHER_DIAMOND": "Premium Supporter"
+  "OTHER_DIAMOND": "Premium Supporter",
+  "BADGE_BUG_HUNTER": "Bug Hunter",
+  "BADGE_BUG_HUNTER_LEVEL_2": "Bug Hunter Level 2",
+  "BADGE_HYPESQUAD_EVENTS": "HypeSquad Events",
+  "BADGE_CERTIFIED_MODERATOR": "Certified Moderator",
+  "BADGE_EARLY_SUPPORTER": "Early Supporter",
+  "BADGE_DISCORD_STAFF": "Discord Staff",
+  "BADGE_EARLY_VERIFIED_BOT_DEVELOPER": "Early Verified Bot Developer"
 }
