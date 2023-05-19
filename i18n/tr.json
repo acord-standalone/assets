@@ -101,5 +101,7 @@
   "BADGE_CERTIFIED_MODERATOR": "Moderatör Programları Mezunu",
   "BADGE_EARLY_SUPPORTER": "Erken Dönem Destekçisi",
   "BADGE_DISCORD_STAFF": "Discord Personeli",
-  "BADGE_EARLY_VERIFIED_BOT_DEVELOPER": "Erken Doğrulanmış Bot Geliştiricisi"
+  "BADGE_EARLY_VERIFIED_BOT_DEVELOPER": "Erken Doğrulanmış Bot Geliştiricisi",
+  "ADD_COLOR": "Renk Ekle",
+  "FIX_PERCENTAGES": "Yüzdeleri Düzelt"
 }
