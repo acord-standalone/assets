@@ -103,5 +103,6 @@
   "BADGE_DISCORD_STAFF": "Discord Staff",
   "BADGE_EARLY_VERIFIED_BOT_DEVELOPER": "Early Verified Bot Developer",
   "ADD_COLOR": "Add Color",
-  "FIX_PERCENTAGES": "Fix Percentages"
+  "FIX_PERCENTAGES": "Fix Percentages",
+  "RESET_PERCENTAGES": "Reset Percentages"
 }

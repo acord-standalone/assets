@@ -103,5 +103,6 @@
   "BADGE_DISCORD_STAFF": "Discord Personeli",
   "BADGE_EARLY_VERIFIED_BOT_DEVELOPER": "Erken Doğrulanmış Bot Geliştiricisi",
   "ADD_COLOR": "Renk Ekle",
-  "FIX_PERCENTAGES": "Yüzdeleri Düzelt"
+  "FIX_PERCENTAGES": "Yüzdeleri Düzelt",
+  "RESET_PERCENTAGES": "Yüzdeleri Sıfırla"
 }
