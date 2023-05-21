@@ -55,6 +55,7 @@
   "ENABLED_QUESTION": "Enable?",
   "ENDS_IN": "Ends in {0}",
   "ACORD_PARTNER": "Acord Partner",
+  "ELITE_PARTNER": "Acord Elite Partner",
   "BLOCKED_FROM_ACORD": "You have been blocked from using Acord",
   "RELAUNCH": "Relaunch",
   "RELAUNCH_DESCRIPTION": "Closes the Discord client and reopens it.",
