@@ -107,5 +107,6 @@
   "FIX_PERCENTAGES": "Yüzdeleri Düzelt",
   "RESET_PERCENTAGES": "Yüzdeleri Sıfırla",
   "COSMETICS_BALANCE": "Bakiye",
-  "COSMETICS_CHECKOUT_BALANCE": "Bakiye ile Ödeme Yap"
+  "COSMETICS_CHECKOUT_BALANCE": "Bakiye ile Ödeme Yap",
+  "COSMETICS_PAYMENT_OK": "Ödeme Başarılı"
 }

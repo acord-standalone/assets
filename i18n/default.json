@@ -107,5 +107,6 @@
   "ADD_COLOR": "Add Color",
   "FIX_PERCENTAGES": "Fix Percentages",
   "RESET_PERCENTAGES": "Reset Percentages",
-  "COSMETICS_CHECKOUT_BALANCE": "Checkout with Balance"
+  "COSMETICS_CHECKOUT_BALANCE": "Checkout with Balance",
+  "COSMETICS_PAYMENT_OK": "Payment Successful"
 }
