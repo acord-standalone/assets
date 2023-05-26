@@ -109,5 +109,6 @@
   "STORE_BALANCE": "Bakiye",
   "STORE_CHECKOUT_BALANCE": "Bakiye ile Ödeme Yap",
   "STORE_PAYMENT_OK": "Ödeme Başarılı",
-  "EXPLORE": "Keşfet"
+  "EXPLORE": "Keşfet",
+  "NO_DESCRIPTION": "Açıklama Yok"
 }

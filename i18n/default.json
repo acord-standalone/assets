@@ -109,5 +109,6 @@
   "FIX_PERCENTAGES": "Fix Percentages",
   "RESET_PERCENTAGES": "Reset Percentages",
   "STORE_CHECKOUT_BALANCE": "Checkout with Balance",
-  "STORE_PAYMENT_OK": "Payment Successful"
+  "STORE_PAYMENT_OK": "Payment Successful",
+  "NO_DESCRIPTION": "No Description"
 }
