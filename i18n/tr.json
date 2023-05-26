@@ -69,7 +69,7 @@
   "TRACK_START_POSITION": "Başlangıç Pozisyonu",
   "TRACK_START_POSITION_SECONDS": "Başlangıç Pozisyonu (Saniye)",
   "COSMETICS": "Kozmetikler",
-  "ACORD_COSMETICS_SHOP": "Acord Kozmetik Mağazası",
+  "ACORD_SHOP": "Acord Mağazası",
   "STORE_TOTAL_TRY": "Toplam: {0}₺",
   "STORE_KDV_INCLUDED": "KDV Dahil",
   "STORE_CHECKOUT": "Ödeme Yap",
