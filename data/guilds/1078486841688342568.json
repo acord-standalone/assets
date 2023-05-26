@@ -1,0 +1,24 @@
+{
+  "channel_colors": {
+    "1111720770482208848": {
+      "type": "linear",
+      "angle": "90deg",
+      "points": [
+        {
+          "color": "#fcb627",
+          "percent": null
+        }
+      ]
+    },
+    "1083098851541516399": {
+      "type": "linear",
+      "angle": "90deg",
+      "points": [
+        {
+          "color": "#000000",
+          "percent": null
+        }
+      ]
+    }
+  }
+}
