@@ -1,0 +1,14 @@
+{
+  "channel_colors": {
+    "1111112106176167947": {
+      "type": "linear",
+      "angle": "90deg",
+      "points": [
+        {
+          "color": "#ffb02e",
+          "percent": null
+        }
+      ]
+    }
+  }
+}
