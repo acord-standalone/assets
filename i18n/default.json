@@ -113,5 +113,6 @@
   "NO_DESCRIPTION": "No Description",
   "USER_ID": "User ID",
   "SHARED_USERS": "Shared Users",
-  "BADGE_NAME": "Badge Name"
+  "BADGE_NAME": "Badge Name",
+  "BADGE_IMAGE": "Badge Image"
 }
