@@ -110,5 +110,6 @@
   "RESET_PERCENTAGES": "Reset Percentages",
   "STORE_CHECKOUT_BALANCE": "Checkout with Balance",
   "STORE_PAYMENT_OK": "Payment Successful",
-  "NO_DESCRIPTION": "No Description"
+  "NO_DESCRIPTION": "No Description",
+  "USER_ID": "User ID"
 }
