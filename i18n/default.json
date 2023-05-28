@@ -112,5 +112,6 @@
   "STORE_PAYMENT_OK": "Payment Successful",
   "NO_DESCRIPTION": "No Description",
   "USER_ID": "User ID",
-  "SHARED_USERS": "Shared Users"
+  "SHARED_USERS": "Shared Users",
+  "BADGE_NAME": "Badge Name"
 }

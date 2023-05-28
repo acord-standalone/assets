@@ -50,7 +50,7 @@
   "INVENTORY_PROFILE_MUSIC_FEATURE": "Profil Müziği Özelliği",
   "INVENTORY_COLORED_NAME_FEATURE": "Renkli İsim Özelliği",
   "INVENTORY_HAT_FEATURE": "{0} Şapkası",
-  "INVENTORY_BADGE_FEATURE": "{0} Arması",
+  "INVENTORY_BADGE_FEATURE": "{0} Rozeti",
   "COLORED_NAME": "Renkli İsim",
   "ENABLED_QUESTION": "Aktifleştir?",
   "ENDS_IN": "{0} içinde bitecek.",
@@ -112,5 +112,6 @@
   "EXPLORE": "Keşfet",
   "NO_DESCRIPTION": "Açıklama Yok",
   "USER_ID": "Kullanıcı ID'si",
-  "SHARED_USERS": "Paylaşılan Kullanıcılar"
+  "SHARED_USERS": "Paylaşılan Kullanıcılar",
+  "BADGE_NAME": "Rozet Adı"
 }
