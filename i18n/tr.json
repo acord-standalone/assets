@@ -115,5 +115,6 @@
   "SHARED_USERS": "Paylaşılan Kullanıcılar",
   "BADGE_NAME": "Rozet Adı",
   "BADGE_IMAGE": "Rozet Resmi",
-  "MAX": "Maks"
+  "MAX": "Maks",
+  "INVENTORY_CUSTOM_BADGE_FEATURE": "{0} Özel Rozeti"
 }

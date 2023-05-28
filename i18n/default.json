@@ -115,5 +115,6 @@
   "SHARED_USERS": "Shared Users",
   "BADGE_NAME": "Badge Name",
   "BADGE_IMAGE": "Badge Image",
-  "MAX": "Max"
+  "MAX": "Max",
+  "INVENTORY_CUSTOM_BADGE_FEATURE": "{0} Custom Badge"
 }
