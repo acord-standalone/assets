@@ -116,5 +116,6 @@
   "BADGE_NAME": "Badge Name",
   "BADGE_IMAGE": "Badge Image",
   "MAX": "Max",
-  "INVENTORY_CUSTOM_BADGE_FEATURE": "{0} Custom Badge"
+  "INVENTORY_CUSTOM_BADGE_FEATURE": "{0} Custom Badge",
+  "UPLOADING": "Uploading..."
 }

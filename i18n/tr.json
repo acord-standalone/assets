@@ -116,5 +116,6 @@
   "BADGE_NAME": "Rozet Adı",
   "BADGE_IMAGE": "Rozet Resmi",
   "MAX": "Maks",
-  "INVENTORY_CUSTOM_BADGE_FEATURE": "{0} Özel Rozeti"
+  "INVENTORY_CUSTOM_BADGE_FEATURE": "{0} Özel Rozeti",
+  "UPLOADING": "Yükleniyor..."
 }
