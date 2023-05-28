@@ -111,5 +111,6 @@
   "STORE_PAYMENT_OK": "Ödeme Başarılı",
   "EXPLORE": "Keşfet",
   "NO_DESCRIPTION": "Açıklama Yok",
-  "USER_ID": "Kullanıcı ID'si"
+  "USER_ID": "Kullanıcı ID'si",
+  "SHARED_USERS": "Paylaşılan Kullanıcılar"
 }

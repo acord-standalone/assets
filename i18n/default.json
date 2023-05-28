@@ -111,5 +111,6 @@
   "STORE_CHECKOUT_BALANCE": "Checkout with Balance",
   "STORE_PAYMENT_OK": "Payment Successful",
   "NO_DESCRIPTION": "No Description",
-  "USER_ID": "User ID"
+  "USER_ID": "User ID",
+  "SHARED_USERS": "Shared Users"
 }
