@@ -114,5 +114,6 @@
   "USER_ID": "User ID",
   "SHARED_USERS": "Shared Users",
   "BADGE_NAME": "Badge Name",
-  "BADGE_IMAGE": "Badge Image"
+  "BADGE_IMAGE": "Badge Image",
+  "MAX": "Max"
 }

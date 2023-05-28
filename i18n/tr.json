@@ -114,5 +114,6 @@
   "USER_ID": "Kullanıcı ID'si",
   "SHARED_USERS": "Paylaşılan Kullanıcılar",
   "BADGE_NAME": "Rozet Adı",
-  "BADGE_IMAGE": "Rozet Resmi"
+  "BADGE_IMAGE": "Rozet Resmi",
+  "MAX": "Maks"
 }
