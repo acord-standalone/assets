@@ -117,5 +117,7 @@
   "BADGE_IMAGE": "Rozet Resmi",
   "MAX": "Maks",
   "INVENTORY_CUSTOM_BADGE_FEATURE": "{0} Özel Rozeti",
-  "UPLOADING": "Yükleniyor..."
+  "UPLOADING": "Yükleniyor...",
+  "RESET_ACORD_SHARED_DATA": "Acord Paylaşılan Verilerini Sıfırla",
+  "RESET_ACORD_SHARED_DATA_DESCRIPTION": "Cleans data shared between Acord's extensions."
 }
