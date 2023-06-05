@@ -118,6 +118,6 @@
   "MAX": "Max",
   "INVENTORY_CUSTOM_BADGE_FEATURE": "{0} Custom Badge",
   "UPLOADING": "Uploading...",
-  "RESET_ACORD_SHARED_DATA": "Reset Acord Shared Data",
-  "RESET_ACORD_SHARED_DATA_DESCRIPTION": "Resets all Acord shared data, including settings and extensions."
+  "RESET_ACORD_SHARED_DATA": "Clear Shared Extension Data",
+  "RESET_ACORD_SHARED_DATA_DESCRIPTION": "Cleans data shared between Acord's extensions."
 }

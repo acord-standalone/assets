@@ -118,6 +118,6 @@
   "MAX": "Maks",
   "INVENTORY_CUSTOM_BADGE_FEATURE": "{0} Özel Rozeti",
   "UPLOADING": "Yükleniyor...",
-  "RESET_ACORD_SHARED_DATA": "Acord Paylaşılan Verilerini Sıfırla",
-  "RESET_ACORD_SHARED_DATA_DESCRIPTION": "Cleans data shared between Acord's extensions."
+  "RESET_ACORD_SHARED_DATA": "Uzantılar Arasındaki Verileri Temizle",
+  "RESET_ACORD_SHARED_DATA_DESCRIPTION": "Acord'un uzantılarının arasında paylaşılan verilerini temizler."
 }
