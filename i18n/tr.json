@@ -119,5 +119,6 @@
   "INVENTORY_CUSTOM_BADGE_FEATURE": "{0} Özel Rozeti",
   "UPLOADING": "Yükleniyor...",
   "RESET_ACORD_SHARED_DATA": "Uzantılar Arasındaki Verileri Temizle",
-  "RESET_ACORD_SHARED_DATA_DESCRIPTION": "Acord'un uzantılarının arasında paylaşılan verilerini temizler."
+  "RESET_ACORD_SHARED_DATA_DESCRIPTION": "Acord'un uzantılarının arasında paylaşılan verilerini temizler.",
+  "CHIEF_ADVISER": "Baş Temsilci"
 }

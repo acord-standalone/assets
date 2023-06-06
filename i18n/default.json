@@ -119,5 +119,6 @@
   "INVENTORY_CUSTOM_BADGE_FEATURE": "{0} Custom Badge",
   "UPLOADING": "Uploading...",
   "RESET_ACORD_SHARED_DATA": "Clear Shared Extension Data",
-  "RESET_ACORD_SHARED_DATA_DESCRIPTION": "Cleans data shared between Acord's extensions."
+  "RESET_ACORD_SHARED_DATA_DESCRIPTION": "Cleans data shared between Acord's extensions.",
+  "CHIEF_ADVISER": "Chief Adviser"
 }
