@@ -122,5 +122,7 @@
   "RESET_ACORD_SHARED_DATA_DESCRIPTION": "Acord'un uzantılarının arasında paylaşılan verilerini temizler.",
   "CHIEF_ADVISER": "Baş Acord Temsilcisi",
   "ACORD_LOGIN": "Acord'a Giriş Yap",
-  "ACORD_LOGIN_DONE": "Acord'a Giriş Yapıldı"
+  "ACORD_LOGIN_DONE": "Acord'a Giriş Yapıldı",
+  "LOADING_ALL_EXTENSIONS": "Tüm uzantılar yükleniyor...",
+  "UNLOADING_ALL_EXTENSIONS": "Tüm uzantılar kapatılıyor..."
 }

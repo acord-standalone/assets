@@ -122,5 +122,7 @@
   "RESET_ACORD_SHARED_DATA_DESCRIPTION": "Cleans data shared between Acord's extensions.",
   "CHIEF_ADVISER": "Chief Acord Adviser",
   "ACORD_LOGIN": "Acord Login",
-  "ACORD_LOGIN_DONE": "Acord Login done."
+  "ACORD_LOGIN_DONE": "Acord Login done.",
+  "LOADING_ALL_EXTENSIONS": "Loading all extensions...",
+  "UNLOADING_ALL_EXTENSIONS": "Unloading all extensions..."
 }
