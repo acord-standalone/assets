@@ -120,5 +120,7 @@
   "UPLOADING": "Yükleniyor...",
   "RESET_ACORD_SHARED_DATA": "Uzantılar Arasındaki Verileri Temizle",
   "RESET_ACORD_SHARED_DATA_DESCRIPTION": "Acord'un uzantılarının arasında paylaşılan verilerini temizler.",
-  "CHIEF_ADVISER": "Baş Acord Temsilcisi"
+  "CHIEF_ADVISER": "Baş Acord Temsilcisi",
+  "ACORD_LOGIN": "Acord'a Giriş Yap",
+  "ACORD_LOGIN_DONE": "Acord'a Giriş Yapıldı"
 }
