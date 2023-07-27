@@ -126,5 +126,6 @@
   "LOADING_ALL_EXTENSIONS": "Loading all extensions...",
   "UNLOADING_ALL_EXTENSIONS": "Unloading all extensions...",
   "ACORD_SUBSCRIBED": "You are subscribed to Acord.",
-  "ACORD_NOT_SUBSCRIBED": "You are not subscribed to Acord. You need to subscribe to use Acord."
+  "ACORD_NOT_SUBSCRIBED": "You are not subscribed to Acord. You need to subscribe to use Acord.",
+  "SUBSCRIBE_TO_ACORD": "Subscribe to Acord"
 }

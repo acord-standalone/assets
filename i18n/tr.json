@@ -126,5 +126,6 @@
   "LOADING_ALL_EXTENSIONS": "Tüm uzantılar yükleniyor...",
   "UNLOADING_ALL_EXTENSIONS": "Tüm uzantılar kapatılıyor...",
   "ACORD_SUBSCRIBED": "Acord'a abone oldunuz",
-  "ACORD_NOT_SUBSCRIBED": "Acord'a abone değilsiniz. Acord'u kullanabilmek için abone olmanız gerekiyor."
+  "ACORD_NOT_SUBSCRIBED": "Acord'a abone değilsiniz. Acord'u kullanabilmek için abone olmanız gerekiyor.",
+  "ACORD_SUBSCRIBE": "Acord'a abone ol"
 }
