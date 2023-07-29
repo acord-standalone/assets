@@ -130,5 +130,6 @@
   "ACORD_SUBSCRIBE": "Subscribe to Acord",
   "PREMIUM_PAYMENT_TITLE": "Premium Payment",
   "PREMIUM_PAYMENT_VIP": "VIP",
-  "PREMIUM_PAYMENT_BASIC": "Basic"
+  "PREMIUM_PAYMENT_BASIC": "Basic",
+  "PRICE": "Price"
 }

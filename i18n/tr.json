@@ -130,5 +130,6 @@
   "ACORD_SUBSCRIBE": "Acord'a abone ol",
   "PREMIUM_PAYMENT_TITLE": "Premium Ödeme",
   "PREMIUM_PAYMENT_VIP": "VIP",
-  "PREMIUM_PAYMENT_BASIC": "Temel"
+  "PREMIUM_PAYMENT_BASIC": "Temel",
+  "PRICE": "Fiyat"
 }
