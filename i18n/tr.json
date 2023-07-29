@@ -132,5 +132,6 @@
   "PREMIUM_PAYMENT_VIP": "VIP",
   "PREMIUM_PAYMENT_BASIC": "Temel",
   "PRICE": "Fiyat",
-  "MONTHLY_PRICE": "Aylık Fiyat"
+  "MONTHLY_PRICE": "Aylık Fiyat",
+  "COUPON_CODE": "Kupon Kodu"
 }
