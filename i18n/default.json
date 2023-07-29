@@ -131,5 +131,6 @@
   "PREMIUM_PAYMENT_TITLE": "Premium Payment",
   "PREMIUM_PAYMENT_VIP": "VIP",
   "PREMIUM_PAYMENT_BASIC": "Basic",
-  "PRICE": "Price"
+  "PRICE": "Price",
+  "MONTHLY_PRICE": "Monthly Price"
 }
