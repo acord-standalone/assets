@@ -128,5 +128,7 @@
   "ACORD_SUBSCRIBED": "Acord'a abone oldunuz",
   "ACORD_NOT_SUBSCRIBED": "Acord'a abone değilsiniz. Acord'u kullanabilmek için abone olmanız gerekiyor.",
   "ACORD_SUBSCRIBE": "Acord'a abone ol",
-  "PREMIUM_PAYMENT_TITLE": "Premium Ödeme"
+  "PREMIUM_PAYMENT_TITLE": "Premium Ödeme",
+  "PREMIUM_PAYMENT_VIP": "VIP",
+  "PREMIUM_PAYMENT_BASIC": "Temel"
 }
