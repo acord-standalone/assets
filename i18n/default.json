@@ -136,5 +136,6 @@
   "COUPON_CODE": "Coupon Code",
   "ACORD_UPDATE_AVAILABLE": "Acord Update Available",
   "ACORD_UPDATE_AVAILABLE_DESCRIPTION": "Acord update is available. Do you want to update? Current Version: {0}, New Version: {1}",
-  "UPDATE": "Update"
+  "UPDATE": "Update",
+  "LATER": "Later"
 }
