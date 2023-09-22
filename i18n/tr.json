@@ -133,5 +133,8 @@
   "PREMIUM_PAYMENT_BASIC": "Temel",
   "PRICE": "Fiyat",
   "MONTHLY_PRICE": "Aylık Fiyat",
-  "COUPON_CODE": "Kupon Kodu"
+  "COUPON_CODE": "Kupon Kodu",
+  "ACORD_UPDATE_AVAILABLE": "Acord'un yeni bir versiyonu mevcut.",
+  "ACORD_UPDATE_AVAILABLE_DESCRIPTION": "Acord'un yeni bir versiyonu mevcut. Güncellemek ister misiniz? Şuanki Version: {0}, Yeni Version: {1}",
+  "UPDATE": "Güncelle"
 }

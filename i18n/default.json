@@ -133,5 +133,8 @@
   "PREMIUM_PAYMENT_BASIC": "Basic",
   "PRICE": "Price",
   "MONTHLY_PRICE": "Monthly Price",
-  "COUPON_CODE": "Coupon Code"
+  "COUPON_CODE": "Coupon Code",
+  "ACORD_UPDATE_AVAILABLE": "Acord Update Available",
+  "ACORD_UPDATE_AVAILABLE_DESCRIPTION": "Acord update is available. Do you want to update? Current Version: {0}, New Version: {1}",
+  "UPDATE": "Update"
 }
